@@ -1,0 +1,13 @@
+{
+    "m0112_1": {
+        "type": "meal",
+        "raw_video": "DVR___2019-01-12_11.41.48.AVI",
+        "raw_label": "",
+        "relative_start": "00:00:00.000",
+        "relative_end": "00:20:00.000",
+        "LED": {
+            "relative":"00:00:00.000",
+            "absolute":"2019-01-12 11:41:48.000"
+        }
+    }
+}

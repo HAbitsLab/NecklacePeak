@@ -1,0 +1,26 @@
+.contentsClass { 
+	height: 300px;
+}
+
+#container {
+    background-color: #ffcc33;
+    margin: auto;
+}
+#videocamera {
+    width: 680px;
+    float: left;
+    height: 360px;
+    background-color: white;
+}
+#extraInfo {
+    margin-left: 680px;
+    background-color: white;
+}
+
+#contents {
+	clear: both;
+}
+
+label {
+    font: normal 12px courier !important;
+}

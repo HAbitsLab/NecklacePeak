@@ -1,0 +1,16 @@
+raw_folder:
+  #"/Volumes/Seagate/SHIBO/BeYourself-Structured/RAW"
+  "./data/RAW"
+
+tmp_folder:
+  #"/Volumes/Seagate/Periodic/TEMP" 
+  "./data/TEMP"
+
+clean_folder:
+  #"/Volumes/Seagate/Periodic/CLEAN"
+  "./data/CLEAN"
+
+anno_folder:
+  # "/Volumes/Seagate/SHIBO/BeYourself-Structured/ANNOTATION"
+  "./data/ANNOTATION"
+
